@@ -2,6 +2,14 @@
 
 A Streamlit dashboard that classifies an email's text as **Spam** or **Not Spam (Ham)** using a Scikit-learn pipeline: TF-IDF text vectorization + Multinomial Naive Bayes.
 
+## Team Members
+
+- Faishal Ansari
+- Sah Alam Raza
+- Asrar Ansari
+- Md Akif Rahim
+- Md Faij
+  
 ## Project files
 
 - `emails.csv` — 50 illustrative, labelled email examples (25 spam / 25 ham).
