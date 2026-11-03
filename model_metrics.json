@@ -1,0 +1,55 @@
+{
+  "accuracy": 0.7692307692307693,
+  "precision_spam": 0.75,
+  "recall_spam": 0.6,
+  "f1_spam": 0.6666666666666666,
+  "classification_report": {
+    "Not Spam (Ham)": {
+      "precision": 0.7777777777777778,
+      "recall": 0.875,
+      "f1-score": 0.8235294117647058,
+      "support": 8.0
+    },
+    "Spam": {
+      "precision": 0.75,
+      "recall": 0.6,
+      "f1-score": 0.6666666666666666,
+      "support": 5.0
+    },
+    "accuracy": 0.7692307692307693,
+    "macro avg": {
+      "precision": 0.7638888888888888,
+      "recall": 0.7375,
+      "f1-score": 0.7450980392156863,
+      "support": 13.0
+    },
+    "weighted avg": {
+      "precision": 0.767094017094017,
+      "recall": 0.7692307692307693,
+      "f1-score": 0.7631975867269986,
+      "support": 13.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      7,
+      1
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "ham",
+    "spam"
+  ],
+  "train_size": 37,
+  "test_size": 13,
+  "dataset_size": 50,
+  "class_counts": {
+    "ham": 30,
+    "spam": 20
+  },
+  "note": "Educational sample dataset; metrics are illustrative and not a real-world guarantee."
+}
