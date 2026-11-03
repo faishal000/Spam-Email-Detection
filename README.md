@@ -5,7 +5,7 @@ A Streamlit dashboard that classifies an email's text as **Spam** or **Not Spam 
 ## Team Members
 
 - Faishal Ansari
-- Sah Alam Raza
+- Shah Alam Raza
 - Asrar Ansari
 - Md Akif Rahim
 - Md Faij
